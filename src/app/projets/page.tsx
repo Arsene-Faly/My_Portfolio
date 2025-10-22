@@ -23,8 +23,8 @@ const projects = [
     technologies: ["Next Js", "React", "TailwindCSS", "daisyUI"],
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-    githubLink: "https://github.com/votre-username/portfolio",
-    liveLink: "https://votre-portfolio.com",
+    githubLink: "https://github.com/Arsene-Faly/My_Portfolio",
+    liveLink: "https://arsene-faly.vercel.app/",
   },
   {
     id: 3,

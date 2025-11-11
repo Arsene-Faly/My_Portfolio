@@ -58,7 +58,7 @@ const Accueil = () => {
 
           <div className="card bg-base-200 shadow-lg p-4 sm:p-6 text-center transform hover:scale-105 transition-transform duration-300">
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-primary">
-              12+
+              6+
             </h2>
             <p className="mt-2 text-sm sm:text-base md:text-base lg:text-lg text-base-content/80">
               Projets réalisés

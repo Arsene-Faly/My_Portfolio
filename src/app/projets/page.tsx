@@ -31,7 +31,7 @@ const projects = [
     title: "Gestion budgétaire",
     description:
       "Application web pour suivre les dépenses et les rapports personnalisés.",
-    technologies: ["React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "CSS", "Django"],
     image:
       "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&fit=crop",
     githubLink: "https://github.com/Arsene-Faly/gestionbudgetaire",
